@@ -1,17 +1,14 @@
-# WSA
-Window screen automation
-
-# Window Screen Automation
+# WSA Window Screen Automation
 
 ## Overview
 
-Window Screen Automation is a tool designed to simplify the management and control of window screens in a desktop environment. This project allows users to automate various tasks such as opening, closing, resizing, and moving window screens with ease. It aims to enhance productivity by providing users with a set of commands or a graphical interface to control their windows programmatically.
+Window Screen Automation is a tool designed to simplify the management and control of window screens in a windows  environment. This project allows users to automate various tasks such as monitoring, capturing window screens with ease. It aims to enhance productivity by providing users with a set of commands or a graphical interface to control their windows programmatically.
 
 ## Features
 
 - **Automate Window Management**: Automatically open, close, resize, and move windows based on user-defined criteria.
 - **Customizable Workflows**: Create custom workflows to suit your specific needs, improving your efficiency.
-- **Multi-Platform Support**: Works across different operating systems, providing a consistent experience on Windows, macOS, and Linux.
+
 - **User-Friendly Interface**: Comes with a simple and intuitive interface for ease of use.
 
 ## Getting Started
